@@ -12,6 +12,10 @@ N/A
 
 With semantics and classes used, the code is easier to go through to make changes if needed.
 
+## Link
+
+https://megmathis.github.io/Horiseon_Refactor_Challenge/
+
 ## Credits
 
 <https://www.tutorialrepublic.com/html-reference/html5-tags.php
