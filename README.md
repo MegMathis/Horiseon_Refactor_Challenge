@@ -24,7 +24,7 @@ https://megmathis.github.io/Horiseon_Refactor_Challenge/
 
 <https://www.tutorialrepublic.com/html-reference/html5-tags.php
 
-> <https://www.w3schools.com/Css/
+<https://www.w3schools.com/Css/
 
 ## License
 
