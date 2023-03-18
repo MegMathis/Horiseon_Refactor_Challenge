@@ -19,6 +19,7 @@ With semantics and classes used, the code is easier to go through to make change
 ## Link
 
 https://megmathis.github.io/Horiseon_Refactor_Challenge/
+https://github.com/MegMathis/Horiseon_Refactor_Challenge
 
 ## Credits
 
